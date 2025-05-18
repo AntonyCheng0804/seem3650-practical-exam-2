@@ -1,4 +1,4 @@
-# SEEM3650 Practical Exam 2: BabyGPT Mini Project
+BabyGPT Mini Project
 
 **Student ID:** 1155193432  
 **Course:** SEEM3650  
